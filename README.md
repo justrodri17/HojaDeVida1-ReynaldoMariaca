@@ -4,13 +4,13 @@
 **Carrera:** Ingeniería de Sistemas  
 **Institución:** Universidad Católica Boliviana "San Pablo" Sede La Paz
 
----
+
 
 ## Descripción del Proyecto
 
 Este proyecto es una hoja de vida interactiva y accesible desarrollada bajo el estándar nativo **HTML5**, sin el uso de frameworks (como Bootstrap o Tailwind) ni bibliotecas de JavaScript. Su objetivo es demostrar el dominio de la estructura semántica, la accesibilidad (A11y), la validación de formularios nativos y el manejo de multimedia.
 
----
+
 
 ## Etiquetas HTML5 Utilizadas
 
@@ -21,7 +21,7 @@ Este proyecto es una hoja de vida interactiva y accesible desarrollada bajo el e
 - **Formularios Nativos:** `<form>`, `<fieldset>`, `<legend>`, `<label>`, `<input>`, `<textarea>`, `<select>`, `<option>`, `<button>`.
 - **Retos Sobresalientes (HTML5):** `<meter>`, `<progress>`, `<details>`, `<summary>`.
 
----
+
 
 ## Elementos de Accesibilidad 
 
@@ -31,7 +31,7 @@ Este proyecto es una hoja de vida interactiva y accesible desarrollada bajo el e
 4. **Formularios Accesibles:** Etiquetas `<label>` asociadas mediante el atributo `for` e identificadores únicos `id`.
 5. **Jerarquía y ARIA:** Atributos `aria-labelledby`, `aria-describedby` y niveles jerárquicos estructurados desde `<h1>` hasta `<h3>`.
 
----
+
 
 ## Instrucciones para Visualizar el Proyecto
 
