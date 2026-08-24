@@ -6,13 +6,13 @@
 
 ---
 
-## 📄 Descripción del Proyecto
+## Descripción del Proyecto
 
 Este proyecto es una hoja de vida interactiva y accesible desarrollada bajo el estándar nativo **HTML5**, sin el uso de frameworks (como Bootstrap o Tailwind) ni bibliotecas de JavaScript. Su objetivo es demostrar el dominio de la estructura semántica, la accesibilidad (A11y), la validación de formularios nativos y el manejo de multimedia.
 
 ---
 
-## 🛠️ Etiquetas HTML5 Utilizadas
+## Etiquetas HTML5 Utilizadas
 
 - **Estructura Semántica:** `<header>`, `<nav>`, `<main>`, `<section>`, `<article>`, `<aside>`, `<footer>`.
 - **Texto y Formato:** `<h1>` a `<h3>`, `<p>`, `<strong>`, `<em>`, `<mark>`, `<small>`, `<time>`, `<address>`.
@@ -23,7 +23,7 @@ Este proyecto es una hoja de vida interactiva y accesible desarrollada bajo el e
 
 ---
 
-## ♿ Elementos de Accesibilidad (A11y)
+## Elementos de Accesibilidad 
 
 1. **Atributo de Idioma:** `lang="es"` en el elemento raíz HTML.
 2. **Navegación Teclado:** Enlace accesible _"Saltar al contenido principal"_ (`.skip-link`).
@@ -33,7 +33,7 @@ Este proyecto es una hoja de vida interactiva y accesible desarrollada bajo el e
 
 ---
 
-## 🚀 Instrucciones para Visualizar el Proyecto
+## Instrucciones para Visualizar el Proyecto
 
 1. Clonar o descargar el repositorio desde GitHub.
 2. Asegurarse de que la estructura de carpetas contenga los recursos en `assets/images/`, `assets/audio/` y `assets/video/`.
