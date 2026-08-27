@@ -310,7 +310,7 @@
         </article>
       </section>
 
-      <section id="multimedia" aria-labelledby="titulo-multimedia">
+     <section id="multimedia" aria-labelledby="titulo-multimedia">
         <h2 id="titulo-multimedia">Portafolio Multimedia</h2>
 
         <div>
@@ -318,8 +318,7 @@
             <img
               src="assets/imagenes/proyecto.svg"
               alt="Captura de pantalla del esquema de arquitectura del proyecto SaludDigital"
-              width="550"
-              height="580"
+              style="max-width: 100%; height: auto;"
             />
             <figcaption>
               Figura 1: Diagrama Entidad-Relación desarrollado para el proyecto
@@ -331,7 +330,7 @@
             <figcaption>
               <strong>Presentación de Audio Profesional:</strong>
             </figcaption>
-            <audio controls>
+            <audio controls style="max-width: 100%;">
               <source src="assets/audios/presentacion.mp3" type="audio/mpeg" />
               Tu navegador no soporta el elemento de audio.
             </audio>
@@ -341,7 +340,10 @@
             <figcaption>
               <strong>Demostración de Proyecto en Video:</strong>
             </figcaption>
-            <video controls width="50%">
+            <video
+              controls
+              style="max-width: 100%; height: auto;"
+            >
               <source src="assets/videos/presentacion.mp4" type="video/mp4" />
               Tu navegador no soporta la reproducción de video.
             </video>
